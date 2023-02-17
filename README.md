@@ -8,7 +8,7 @@ We reccomend you use [OBS Studio](https://www.obsproject.com/), as it is the top
 For events such as Riptide, we have our own custom variation of a Stream Tool called TournamentStreamHelper. You can find the link to that repo [here](https://www.github.com/CCSUVGC/TournamentStreamHelper).
 
 ## Guides
-Guides are in the [Wiki](https://www.github.com/CCSUVGC/Livestreaming/wiki).
+Guides are in the [Wiki](https://docs.ccsuvgc.com).
 
 ## Still have questions?
 Join our Discord and let us know, or contact BlueSaber over email.
